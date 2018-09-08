@@ -1,0 +1,10 @@
+F:\ZPractice\StaticKeyword\bin\Debug\netcoreapp2.0\StaticKeyword.deps.json
+F:\ZPractice\StaticKeyword\bin\Debug\netcoreapp2.0\StaticKeyword.runtimeconfig.json
+F:\ZPractice\StaticKeyword\bin\Debug\netcoreapp2.0\StaticKeyword.runtimeconfig.dev.json
+F:\ZPractice\StaticKeyword\bin\Debug\netcoreapp2.0\StaticKeyword.dll
+F:\ZPractice\StaticKeyword\bin\Debug\netcoreapp2.0\StaticKeyword.pdb
+F:\ZPractice\StaticKeyword\obj\Debug\netcoreapp2.0\StaticKeyword.csproj.CoreCompileInputs.cache
+F:\ZPractice\StaticKeyword\obj\Debug\netcoreapp2.0\StaticKeyword.AssemblyInfoInputs.cache
+F:\ZPractice\StaticKeyword\obj\Debug\netcoreapp2.0\StaticKeyword.AssemblyInfo.cs
+F:\ZPractice\StaticKeyword\obj\Debug\netcoreapp2.0\StaticKeyword.dll
+F:\ZPractice\StaticKeyword\obj\Debug\netcoreapp2.0\StaticKeyword.pdb
